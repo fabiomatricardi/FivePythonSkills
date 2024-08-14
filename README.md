@@ -17,4 +17,7 @@ You can be a complete beginner in Python, but this doesn't matter at all. Let's 
 <br><br>
 
 The Google Colab [notebook here](https://github.com/fabiomatricardi/FivePythonSkills/blob/main/FivePythonSkills.ipynb)
+<br><br><br>
+to build this
 <br><br>
+<img src='https://github.com/fabiomatricardi/FivePythonSkills/raw/main/YourOwnaI.gif' width=900>
